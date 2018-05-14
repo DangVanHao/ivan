@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/33cd70d9f15235e9571423d07de3aabf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5a7edd115dd6c1bbbb9d744c90864a40/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e310c2328b91515317863ea21a5bc263/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4c69e0fe57c34fd741af7b5cc3be2ec4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fcf3a63fcdcc56128b12240d7de606ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d76a23e96d9355b712276db1c893c333/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/401372b70833b994c9d796d65d91dab1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb15040c86127f3d4e3505f22bc310a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/68cb1d7f336024f056e272dc93ce1254/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7135029b5913947e7360430fe763e9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e0b7b1ab07788b4103bc3fa5f608e8d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbee2c5924788b864b394559987644ee/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5a7edd115dd6c1bbbb9d744c90864a40/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5a7edd115dd6c1bbbb9d744c90864a40/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.dungpc.ivanhao.MainActivity
+ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/33cd70d9f15235e9571423d07de3aabf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/33cd70d9f15235e9571423d07de3aabf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5a7edd115dd6c1bbbb9d744c90864a40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5a7edd115dd6c1bbbb9d744c90864a40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e310c2328b91515317863ea21a5bc263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e310c2328b91515317863ea21a5bc263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4c69e0fe57c34fd741af7b5cc3be2ec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4c69e0fe57c34fd741af7b5cc3be2ec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fcf3a63fcdcc56128b12240d7de606ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fcf3a63fcdcc56128b12240d7de606ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d76a23e96d9355b712276db1c893c333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d76a23e96d9355b712276db1c893c333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/401372b70833b994c9d796d65d91dab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/401372b70833b994c9d796d65d91dab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb15040c86127f3d4e3505f22bc310a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dungpc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb15040c86127f3d4e3505f22bc310a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/68cb1d7f336024f056e272dc93ce1254/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/68cb1d7f336024f056e272dc93ce1254/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7135029b5913947e7360430fe763e9d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7135029b5913947e7360430fe763e9d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e0b7b1ab07788b4103bc3fa5f608e8d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e0b7b1ab07788b4103bc3fa5f608e8d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbee2c5924788b864b394559987644ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dungpc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbee2c5924788b864b394559987644ee/AndroidManifest.xml:20:5-44
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+		ADDED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dungpc/AndroidStudioProjects/ivanhao/app/src/main/AndroidManifest.xml
